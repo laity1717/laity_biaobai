@@ -1,7 +1,7 @@
 # laity_biaobai
 各种各种的有趣的表白代码
 
-@[TOC]目录
+@[TOC](目录)
 
 
 ## python弹窗表白程序
